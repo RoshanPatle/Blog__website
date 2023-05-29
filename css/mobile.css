@@ -1,0 +1,114 @@
+.navagation{
+    height: 110px;
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-left{
+    margin-left: 150px;
+    margin-right: 100px;
+}
+.nav-left span{
+    margin-left:10px ;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: sans-serif;
+ }
+ .nav-left ul li {
+    font-size: 15px;
+    
+ }
+
+ .nav-left ul{
+    margin-left: 36px;
+ }
+.nav-right{
+
+    
+    
+}
+
+.content{
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    
+    
+    
+}
+
+
+.home-articles img{
+ height: 180px;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+
+ 
+    
+}
+
+
+
+
+
+
+
+.max-width-1{
+    width: 80vw;
+}
+
+.max-width-2{
+    width: 60vw;
+}
+
+.m-auto{
+    margin-left:30px;
+}
